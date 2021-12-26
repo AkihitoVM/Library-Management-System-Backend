@@ -1,6 +1,6 @@
 # Library Management System Backend
 
-RestAPI for books and student management in library
+RestAPI for books and student management in library built with MongodDB, Express.js and Node.js.
 
 ---
 ## Requirements
